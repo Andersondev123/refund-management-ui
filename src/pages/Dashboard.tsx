@@ -11,7 +11,7 @@ import { RefundItem, type RefundItemProps } from "../components/RefundItem"
 
 const REFUND_EXEMPLE = {
     id: "123",
-    name: "Anderson",
+    name: "Anderson Passos",
     category: "Transport",
     amount: formatCurrency(22.5),
     categoryImg: CATEGORIES["transport"].icon

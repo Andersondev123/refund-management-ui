@@ -1,4 +1,4 @@
-# Refund UI 💼
+# Refund Management UI
 
 ![Preview do projeto](.github/preview.jpg)
 
@@ -51,7 +51,7 @@ O projeto foi desenvolvido como prática dos conceitos apresentados no curso, co
 ### 📥 Clonar o repositório
 
 ```bash
-git clone https://github.com/Andersondev123/refund-ui.git
+git clone https://github.com/Andersondev123/refund-management-ui.git
 ```
 ### Execute o comando de instalação
 ```bash
